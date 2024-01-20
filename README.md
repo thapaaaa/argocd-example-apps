@@ -23,6 +23,7 @@ to explore ArgoCD and GitOps!
 
 
 ## manifest
+
 project: default
 source:
   repoURL: 'https://github.com/argoproj/argocd-example-apps/'
